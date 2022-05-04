@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gr8-alizaidi
-- 👀 I’m interested in literally everything
+- 👀 I’m interested in Android Development, Web Development and Deep Learning
 - 🌱 I’m currently learning android dev
 - 💞️ I’m looking to collaborate on web dev and deep learning
 - 📫 contatct me @iamalizaidi110@gmail.com
